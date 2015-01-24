@@ -16,20 +16,23 @@ Then, to build an anthology, use `build-script.sh`, with which ever files you wa
 
 It depends on:
 
-	- pandoc 
-	- Python 2.7
-	- LaTeX/XeLaTeX and the Following Additional Packages
-	  - babel
-	  - csquotes
-	  - fancyhdr
-	  - fontenc
-	  - fontspec
-	  - geometry
-	  - inputenc
-	  - sectsty
-	  - titling
-	  - tocloft
-	  - verse
+- pandoc 
+- Python 2.7
+- LaTeX/XeLaTeX 
+
+And the following additional LaTeX packages:
+
+- babel
+- csquotes
+- fancyhdr
+- fontenc
+- fontspec
+- geometry
+- inputenc
+- sectsty
+- titling
+- tocloft
+- verse
 
 As currently written, it also assumes that you have the [Linux Libertine](http://www.linuxlibertine.org/) fonts installed.
 
