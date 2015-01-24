@@ -12,7 +12,7 @@ To use this process, therefore, you need to first put some MarkDown files in the
 
 Then, to build an anthology, use `build-script.sh`, with which ever files you wanted included (in the order you like). E.g.
 
-    /.build-script.sh 
+    /.build-script.sh pater_conclusion-to-studies ford_on-impressionism pound_retrospect eliot_ulysses-order-myth
 
 It depends on:
 
