@@ -16,6 +16,14 @@ else
 	fi 
     done
     echo '\end{document}' >> $latexfile
+    cd output
+    xelatex $base > $base'.output'
+    xelatex $base > $base'.output'
+    if [[ -f $base'.pdf' ]]; then
+	echo 'output/'$base'.pdf successfully created.'
+    else
+	echo 'Sorry. Problem generating '$base'.pdf. Check ./output for '$base'.tex.'
+    fi
 fi
 
 

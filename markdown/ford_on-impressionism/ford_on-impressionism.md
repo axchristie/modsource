@@ -147,9 +147,9 @@ about the history of Impressionism, though I must warn you that I am
 a shockingly ill-read man. Here, then, are some examples: do you 
 know, for instance, Hogarth's drawing of the watchman with the pike over 
 <!-- pb n='170' cit='volII,no6' -->his shoulder and the dog at his heels going in at a door, the whole 
-being executed in four lines ? Here it is: 
+being executed in four lines? Here it is: 
 
-![](images/figure01.png)
+![](images/ford_on-impressionism_01.png)
 
 Now, that is the high-watermark of Impressionism; since, if you look 
 at those lines for long enough, you will begin to see the watchman with 
