@@ -1,0 +1,156 @@
+---
+title: '*Ulysses*, Order, and Myth'
+author:
+	family: Eliot
+	given: T. S.
+	
+citation: 
+	container-title: The Dial
+	month: 11
+	year: 1923
+	pages: 480-483
+	
+source:
+	- http://summit.syr.edu/vwebv/holdingsInfo?bibId=911529
+	- http://people.virginia.edu/~jdk3t/eliotulysses.htm
+	- http://onlinebooks.library.upenn.edu/webbin/serial?id=thedial
+
+editor: Chris Forster
+---
+
+Mr. Joyce's book has been out long enough for no more general 
+expression of praise, or expostulation with its detractors, 
+to be necessary; and it has not been out long enough for any attempt 
+at a complete measurement of its place and significance to 
+be possible. All that one can usefully do at this time, and it is a 
+great deal to do, for such a book, is to elucidate any aspect of the 
+book---and the number of aspects is indefinite---which has not yet 
+been fixed. I hold this book to be the most important expression 
+which the present age has found; it is a book to which we are all 
+indebted, and from which none of us can escape. These are postulates 
+for anything that I have to say about it, and I have no wish 
+to waste the reader's time by elaborating my eulogies; it has given 
+me all the surprise, delight, and terror that I can require, and I will 
+leave it at that.
+
+Among all the criticisms I have seen of the book, I have seen 
+nothing---unless we except, in its way, M Valery Larbaud's valuable 
+paper which is rather an Introduction than a criticism---which 
+seemed to me to appreciate the significance of the method employed---the 
+parallel to the Odyssey, and the use of appropriate styles and 
+symbols to each division. Yet one might expect this to be the first 
+peculiarity to attract attention; but it has been treated as an amusing 
+dodge, or scaffolding erected by the author for the purpose of 
+disposing his realistic tale, of no interest in the completed structure. 
+The criticism which Mr. Aldington directed upon *Ulysses* 
+several years ago seems to me to fail by this oversight---but, as Mr 
+Aldington wrote before the complete work had appeared, fails 
+more honourably than the attempts of those who had the whole 
+book before them. Mr. Aldington treated Mr. Joyce as a prophet of 
+chaos; and wailed at the flood of Dadaism which his prescient eye 
+<!-- n='481' -->saw bursting forth at the tap of the magician's rod. Of course, the 
+influence which Mr. Joyce's book may have is from my point of 
+view an irrelevance. A very great book may have a very bad influence 
+indeed; and a mediocre book may be in the event most 
+salutary. The next generation is responsible for its own soul; a 
+man of genius is responsible to his peers, not to a studio-full of 
+uneducated and undisciplined coxcombs. Still, Mr. Aldington'ss pathetic 
+solicitude for the haif-witted seems to me to carry certain 
+implications about the nature of the book itself to which I cannot 
+assent; and this is the important issue. He finds the book, if I 
+understand him, to be an invitation to chaos, and an expression of 
+feelings which are perverse, partial, and a distortion of reality. 
+But unless I quote Mr. Aldington's words I am likely to falsify. 
+"I say, moreover," he says,^[English Review, April 1921.] "that when Mr. Joyce, with his marvellous 
+gifts, uses them to disgust us with mankind, he is doing 
+something which is false and a libel on humanity." It is somewhat 
+similar to the opinion of the urbane Thackeray upon Swift. "As 
+for the moral, I think it horrible, shameful, unmanly, blasphemous: 
+and giant and great as this Dean is, I say we should hoot him." 
+(This, of the conclusion of the Voyage to the Houyhnhnms---which 
+seems to me one of the greatest triumphs that the human soul has 
+ever achieved.---It is true that Thackeray later pays Swift one of 
+the finest tributes that a man has ever given or received: "So great 
+a man he seems to me that thinking of him is like thinking of an 
+empire falling." And Mr. Aldington, in his time, is almost equally 
+generous.)
+
+Whether it is possible to libel humanity (in distinction to libel 
+in the usual sense, which is libelling an individual or a group in 
+contrast with the rest of humanity) is a question for philosophical 
+societies to discuss; but of course if *Ulysses* were a "libel" it would 
+simply be a forged document, a powerless fraud, which would 
+never have extracted from Mr. Aldington a moment's attention. I 
+do not wish to linger over this point: the interesting question is 
+that begged by Mr. Aldington when he refers to Mr. Joyce's "great 
+*undisciplined* talent."
+
+I think that Mr. Aldington and I are more or less agreed as to 
+what we want in principle, and agreed to call it classicism. It is 
+because of this agreement that I have chosen Mr. Aldington to attack 
+<!-- pb n='482' -->on the present issue. We are agreed as to what we want, but 
+not as to how to get it, or as to what contemporary writing exhibits 
+a tendency in that direction. We agree, I hope, that "classicism" 
+is not an alternative to "romanticism," as of political parties, Conservative 
+and Liberal, Republican and Democrat, on a "turn-the-rascals-out" 
+platform. It is a goal toward which all good literature 
+strives, so far as it is good, according to the possibilities of its 
+place and time. One can be "classical," in a sense, by turning 
+away from nine-tenths of the material which lies at hand, and selecting 
+only mummified stuff from a museum---like some contemporary 
+writers, about whom one could say some nasty things in this 
+connexion, if it were worth while (Mr. Aldington is not one of 
+them). Or one can be classical in tendency by doing the best one 
+can with the material at hand. The confusion springs from the 
+fact that the term is applied to literature and to the whole complex 
+of interests and modes of behaviour and society of which literature 
+is a part; and it has not the same bearing in both applications. It 
+is much easier to be a classicist in literary criticism than in creative 
+art---because in criticism you are responsible only for what you 
+want, and in creation you are responsible for what you can do with 
+material which you must simply accept. And in this material I include 
+the emotions and feelings of the writer himself, which, for 
+that writer, are simply material which he must accept---not virtues 
+to be enlarged or vices to be diminished. The question, then, about 
+Mr. Joyce, is: how much living material does he deal with, and how 
+does he deal with it: deal with, not as a legislator or exhorter, but 
+as an artist?
+
+It is here that Mr. Joyce's parallel use of the Odyssey has a great 
+importance. It has the importance of a scientific discovery. No 
+one else has built a novel upon such a foundation before: it has 
+never before been necessary. I am not begging the question in 
+calling *Ulysses* a "novel"; and if you call it an epic it will not 
+matter. If it is not a novel, that is simply because the novel is a 
+form which will no longer serve; it is because the novel, instead of 
+being a form, was simply the expression of an age which had not 
+sufficiently lost all form to feel the need of something stricter. 
+Mr. Joyce has written one novel---the *Portrait*; Mr. Wyndham 
+Lewis has written one novel---*Tarr*. I do not suppose that either 
+of them will ever write another "novel." The novel ended with 
+Flaubert and with James. It is, I think, because Mr. Joyce and 
+Mr. Lewis, being "in advance" of their time, felt a conscious or 
+probably unconscious dissatisfaction with the form, that their novels 
+are more formless than those of a dozen clever writers who are 
+unaware of its obsolescence.
+
+In using the myth, in manipulating a continuous parallel between 
+contemporaneity and antiquity, Mr. Joyce is pursuing a 
+method which others must pursue after him. They will not be imitators, 
+any more than the scientist who uses the discoveries of an 
+Einstein in pursuing his own, independent, further investigations. 
+It is simply a way of controlling, of ordering, of giving a shape and 
+a significance to the immense panorama of futility and anarchy 
+which is contemporary history. It is a method already adumbrated 
+by Mr. Yeats, and of the need for which I believe Mr. Yeats to have 
+been the first contemporary to be conscious. It is a method for 
+which the horoscope is auspicious. Psychology (such as it is, and 
+whether our reaction to it be comic or serious) ethnology, and The 
+Golden Bough have concurred to make possible what was impossible 
+even a few years ago. Instead of narrative method, we may 
+now use the mythical method. It is, I seriously believe, a step toward 
+making the modern world possible for art, toward that order 
+and form which Mr. Aldington so earnestly desires. And only those 
+who have won their own discipline in secret and without aid, in a 
+world which offers very little assistance to that end, can be of any 
+use in furthering this advance.

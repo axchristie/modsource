@@ -1,0 +1,845 @@
+---
+title: On Impressionism
+author: 
+  family: Ford [Hueffer]
+  given: Ford Madox
+
+
+citation:
+	container-title: Poetry and Drama
+	vol: II
+	number: 6
+	year: 1914
+	month: 6
+	pages: 167 - 175
+	
+citation:
+	container-title: Poetry and Drama
+	vol: II
+	number: 8
+	year: 1914
+	month: 12
+	pages: 323-334
+
+source:
+	- http://summit.syr.edu/vwebv/holdingsInfo?bibId=4102088
+	- https://archive.org/details/poetrydrama02monruoft
+ 
+note: 
+	Ford's "On Impressionism" originally appeared split into two articles, appearing in two issues of the journal *Poetry and Drama*. 
+
+tags:
+- impressionism
+  
+editor: Chris Forster
+---
+
+<!-- pb n='167' cit='volII,no6' -->
+
+## First Article
+
+### I. 
+
+These are merely some notes towards a working guide to 
+Impressionism as a literary method. 
+
+I do not know why I should have been especially asked to write 
+about Impressionism; even as far as literary Impressionism goes I 
+claim no Papacy in the matter. A few years ago, if anybody had 
+called me an Impressionist I should languidly have denied that I was 
+anything of the sort or that I knew anything about the school, if there 
+could be said to be any school. But one person and another in the 
+last ten years has called me Impressionist with such persistence that I 
+have given up resistance. I don't know; I just write books, and if 
+someone attaches a label to me I do not much mind. 
+
+I am not claiming any great importance for my work; I daresay it 
+is all right. At any rate, I am a perfectly self-conscious writer; I know 
+exactly how I get my effects, as far as those effects go. Then, if I am 
+in truth an Impressionist, it must follow that a conscientious and exact 
+account of how I myself work will be an account, from the inside, of 
+how Impressionism is reached, produced, or gets its effects. I can do 
+no more. 
+
+This is called egotism; but, to tell the truth, I do not see how 
+Impressionism can be anything else. Probably this school differs from 
+other schools, principally, in that it recognises, frankly, that all art 
+must be the expression of an ego, and that if Impressionism is to do 
+anything, it must, as the phrase is, go the whole hog. The difference 
+between the description of a grass by the agricultural correspondent 
+<!-- pb n='168' cit='volII,no6' -->
+of the *Times* newspaper and the description of the same grass by 
+Mr W.~H.~Hudson is just the difference---the measure of the difference 
+between the egos of the two gentlemen. The difference between the 
+description of any given book by a sound English reviewer and the 
+description of the same book by some foreigner attempting Impressionist 
+criticism is again merely a matter of the difference in the ego. 
+
+Mind, I am not saying that the non-Impressionist productions may 
+not have their values---their very great values. The Impressionist 
+gives you his own views, expecting you to draw deductions, since 
+presumably you know the sort of chap he is. The agricultural correspondent 
+of the *Times*, on the other hand---and a jolly good writer he is---attempts 
+to give you, not so much his own impressions of a new grass 
+as the factual observations of himself and of as many as possible other 
+sound authorities. He will tell you how many blades of the new grass 
+will grow upon an acre, what height they will attain, what will be a 
+reasonable tonnage to expect when green, when sun-dried in the form 
+of hay or as ensilage. He will tell you the fattening value of the new 
+fodder in its various forms and the nitrogenous value of the manure 
+dropped by the so-fattened beasts. He will provide you, in short, with 
+reading that is quite interesting to the layman, since all facts are 
+interesting to men of good will; and the agriculturist he will provide 
+with information of real value. Mr.~Hudson, on the other hand, will 
+give you nothing but the pleasure of coming in contact with his 
+temperament, and I doubt whether, if you read with the greatest care 
+his description of false sea-buckthorn (*hippophae rhamnoides) you would 
+very willingly recognise that greenish-grey plant, with the spines and 
+the berries like reddish amber, if you came across it. 
+
+Or again---so at least I was informed by an editor the other day---the 
+business of a sound English reviewer is to make the readers of the 
+paper understand exactly what sort of a book it is that the reviewer is 
+writing about. Said the editor in question: "You have no idea how 
+many readers your paper will lose if you employ one of those brilliant 
+chaps who write readable articles about books. You will get yourself 
+deluged with letter after letter from subscribers saying they have 
+bought a book on the strength of articles in your paper; that the book 
+isn't in the least what they expected, and that therefore they withdraw 
+their subscriptions." What the sound English reviewer, therefore, has 
+<!-- pb n='169' cit='volII,no6' --> to do is to identify himself with the point of view of as large a number 
+of readers of the journal for which he may be reviewing, as he can 
+easily do, and then to give them as many facts about the book under 
+consideration as his allotted space will hold. To do this he must 
+sacrifice his personality, and the greater part of his readability. But 
+he will probably very much help his editor, since the great majority of 
+readers do not want to read anything that any reasonable person would 
+want to read; and they do not want to come into contact with the 
+personality of the critic, since they have obviously never been introduced 
+to him. 
+
+The ideal critic, on the other hand---as opposed to the so-exemplary 
+reviewer---is a person who can so handle words that from the first 
+three phrases any intelligent person---any foreigner, that is to say, and 
+any one of three inhabitants of these islands---any intelligent person 
+will know at once the sort of chap that he is dealing with. Letters of 
+introduction will therefore be unnecessary, and the intelligent reader will 
+know pretty well what sort of book the fellow is writing about because 
+he will know the sort of fellow the fellow is, I don't mean to say that 
+he would necessarily trust his purse, his wife, or his mistress to the 
+Impressionist critic's care. But that is not absolutely necessary. The 
+ambition, however, of my friend the editor was to let his journal give 
+the impression of being written by those who could be trusted with the 
+wives and purses---not, of course, the mistresses, for there would be 
+none---of his readers. 
+
+You will, perhaps, be beginning to see now what I am aiming at---the 
+fact that Impressionism is a frank expression of personality; the 
+fact that non-Impressionism is an attempt to gather together the 
+opinions of as many reputable persons as may be and to render them 
+truthfully and without exaggeration. (The Impressionist must always 
+exaggerate.) 
+
+### II.
+
+Let us approach this matter historically---as far as I know anything 
+about the history of Impressionism, though I must warn you that I am 
+a shockingly ill-read man. Here, then, are some examples: do you 
+know, for instance, Hogarth's drawing of the watchman with the pike over 
+<!-- pb n='170' cit='volII,no6' -->his shoulder and the dog at his heels going in at a door, the whole 
+being executed in four lines ? Here it is: 
+
+![](images/figure01.png)
+
+Now, that is the high-watermark of Impressionism; since, if you look 
+at those lines for long enough, you will begin to see the watchman with 
+his slouch hat, the handle of the pike coming well down into the 
+cobble-stones, the knee-breeches, the leathern garters strapped round 
+his stocking, and the surly expression of the dog, which is bull-hound 
+with a touch of mastiff in it. 
+
+You may ask why, if Hogarth saw all these things, did he not put 
+them down on paper, and all that I can answer is that he made this 
+drawing for a bet. Moreover why, if you can see all these things for 
+yourself, should Hogarth bother to put them down on paper? You 
+might as well contend that Our Lord ought to have delivered a lecture 
+on the state of primary education in the Palestine of the year 32 or 
+thereabouts, together with the statistics of rickets and other infantile 
+diseases caused by neglect and improper feeding---a disquisition in the 
+manner of Mrs Sidney Webb. He preferred, however, to say: "It were 
+better that a millstone were put about his neck and he were cast into 
+the deep sea." The statement is probably quite incorrect; the 
+statutory punishment either here or in the next world has probably 
+nothing to do with millstones and so on, but Our Lord was, you see, 
+an Impressionist, and knew His job pretty efficiently. It is probable 
+that He did not have access to as many Blue Books or white papers as 
+the leaders of the Fabian Society, but, from His published utterances, 
+one gathers that He had given a good deal of thought to the subject 
+of children. 
+
+I am not in the least joking---and God forbid that I should be 
+thought irreverent because I write like this. The point that I really 
+wish to make is, once again, that---that the Impressionist gives you, 
+as a rule, the fruits of his own observations and the fruits of his own 
+<!-- pb n='171' cit='volII,no6' --> observations alone. He should be in this as severe and as solitary as 
+any monk. It is what he is in the world for. It is, for instance, not so 
+much his business to quote as to state his impressions---that the Holy 
+Scriptures are a good book, or a rotten book, or contain passages of 
+good reading interspersed with dulness; or suggest gems in a cavern, 
+the perfumes of aromatic woods burning in censers, or the rush of the 
+feet of camels crossing the deep sands, or the shrill sounds of long 
+trumpets borne by archangels---clear sounds of brass like those in that 
+funny passage in "Aida." 
+
+The passage in prose, however, which I always take as a working 
+model---and in writing this article I am doing no more than showing 
+you the broken tools and bits of oily rag which form my brains, since 
+once again I must disclaim writing with any authority on Impressionism---this 
+passage in prose occurs in a story by de Maupassant 
+called *La Reine Hortense*. I spent, I suppose, a great part of ten 
+years in grubbing up facts about Henry VIII. I worried about his 
+parentage, his diseases, the size of his shoes, the price he gave for 
+kitchen implements, his relation to his wives, his knowledge of music, 
+his proficiency with the bow. I amassed, in short, a great deal of 
+information about Henry VIII. I wanted to write a long book about 
+him, but Mr.~Pollard, of the British Museum, got the commission and 
+wrote the book probably much more soundly. I then wrote three 
+long novels all about that Defender of the Faith. But I really know---so 
+delusive are reported facts---nothing whatever. Not one single 
+thing! Should I have found him affable, or terrifying, or seductive, or 
+royal, or courageous? There are so many contradictory facts; there 
+are so many reported interviews, each contradicting the other, so that 
+really all that I *know* about this king could be reported in the words of 
+Maupassant, which, as I say, I always consider as a working model. 
+Maupassant is introducing one of his characters, who is possibly gross, 
+commercial, overbearing, insolent; who eats, possibly, too much greasy 
+food; who wears commonplace clothes---a gentleman about whom you 
+might write volumes if you wanted to give the facts of his existence. 
+But all that de Maupassant finds it necessary to say is: "C'était un 
+monsieur à favoris rouges qui entrait toujours le premier." 
+
+And that is all that I *know* about Henry VIII.---that he was a 
+gentleman with red whiskers who always went first through a door. 
+
+<!-- pb n='172' cit='volII,no6' -->
+
+### III.
+
+Let us now see how these things work out in practice. I have a 
+certain number of maxims, gained mostly in conversation with Mr 
+Conrad, which form my working stock-in-trade. I stick to them pretty 
+generally; sometimes I throw them out of the window and just write 
+whatever comes. But the effect is usually pretty much the same. I 
+guess I must be fairly well drilled by this time and function automatically, 
+as the Americans say. The first two of my maxims are 
+these : 
+
+Always consider the impressions that you are making upon the mind 
+of the reader, and always consider that the first impression with which 
+you present him will be so strong that it will be all that you can ever 
+do to efface it, to alter it or even quite slightly to modify it. 
+Maupassant's gentleman with red whiskers, who always pushed in front 
+of people when it was a matter of going through a doorway, will remain, 
+for the mind of the reader, that man and no other. The impression is 
+as hard and as definite as a tin-tack. And I rather doubt whether, 
+supposing Maupassant represented him afterwards as kneeling on the 
+ground to wipe the tears away from a small child who had lost a penny 
+down a drain---I doubt whether such a definite statement of fact would 
+ever efface the first impression from the reader's mind. They would 
+think that the gentleman with the red whiskers was perpetrating that 
+act of benevolence with ulterior motives---to impress the bystanders, 
+perhaps. 
+
+Maupassant, however, uses physical details more usually as a method 
+of introduction of his characters than I myself do. I am inclined 
+myself, when engaged in the seductive occupation, rather to strike the 
+keynote with a speech than with a description of personality, or even 
+with an action. And, for that purpose, I should set it down, as a rule, 
+that the first speech of a character you are introducing should always 
+be a generalisation---since generalisations are the really strong indications 
+of character. Putting the matter exaggeratedly, you might say 
+that, if a gentleman sitting opposite you in the train remarked to you: 
+"I see the Tories have won Leith Boroughs," you would have 
+practically no guide to that gentleman's character. But, if he said: 
+"Them bloody Unionists have crept into Leith because the Labourites, 
+<!-- pb n='173' cit='volII,no6' -->damn them, have taken away 1,100 votes from us," you would know 
+that the gentleman belonged to a certain political party, had a certain 
+social status, a certain degree of education and a certain amount of 
+impatience. 
+
+It is possible that such disquisitions on Impressionism in prose fiction 
+may seem out of place in a journal styled POETRY AND DRAMA. But I 
+do not think they are. For Impressionism, differing from other schools 
+of art, is founded so entirely on observation of the psychology of the 
+patron---and the psychology of the patron remains constant. Let me, 
+to make things plainer, present you with a quotation. Sings Tennyson: 
+
+<div class='poetry'>
+"And bats went round in fragrant skies,
+  And wheeled or lit the filmy shapes
+  That haunt the dusk, with ermine capes
+And woolly breasts and beady eyes."
+</div>
+
+Now that is no doubt very good natural history, but it is certainly 
+not Impressionism, since no one watching a bat at dusk could see the 
+ermine, the wool or the beadiness of the eyes. These things you 
+might read about in books, or observe in the museum or at the 
+Zoological Gardens. Or you might pick up a dead bat upon the road. 
+But to import into the record of observations of one moment the 
+observations of a moment altogether different is not Impressionism. 
+For Impressionism is a thing altogether momentary. 
+
+I do not wish to be misunderstood. It is perfectly possible that the 
+remembrance of a former observation may colour your impression of 
+the moment, so that if Tennyson had said: 
+
+<div class='poetry'>
+
+"And we remembered they have ermine capes,"
+
+</div>
+
+he would have remained within the canons of Impressionism. But that 
+was not his purpose, which, whatever it was, was no doubt praiseworthy 
+in the extreme, because his heart was pure. It is, however, 
+perfectly possible that a piece of Impressionism should give a sense of 
+two, of three, of as many as you will, places, persons, emotions, all 
+going on simultaneously in the emotions of the writer. It is, I mean, 
+perfectly possible for a sensitised person, be he poet or prose writer, to 
+have the sense, when he is in one room, that he is in another, or when he 
+is speaking to one person he may be so intensely haunted by the memory 
+or desire for another person that he may be absent-minded or distraught. 
+And there is nothing in the canons of Impressionism, as I know it, to 
+<!-- pb n='174' cit='volII,no6' --> stop the attempt to render those superimposed emotions. Indeed, I 
+suppose that Impressionism exists to render those queer effects of real 
+life that are like so many views seen through bright glass---through 
+glass so bright that whilst you perceive through it a landscape or a 
+backyard, you are aware that, on its surface, it reflects a face of a 
+person behind you. For the whole of life is really like that; we are 
+almost always in one place with our minds somewhere quite other. 
+
+And it is, I think, only Impressionism that can render that peculiar 
+effect; I know, at any rate, of no other method. It has, this school, in 
+consequence, certain quite strong canons, certain quite rigid unities 
+that must be observed. The point is that any piece of Impressionism, 
+whether it be prose, or verse, or painting, or sculpture, is the record of 
+the impression of a moment; it is not a sort of rounded, annotated 
+record of a set of circumstances---it is the record of the recollection in 
+your mind of a set of circumstances that happened ten years ago---or 
+ten minutes. It might even be the impression of the moment---but 
+it is the impression, not the corrected chronicle. I can make what I 
+mean most clear by a concrete instance. 
+
+Thus an Impressionist in a novel, or in a poem, will never render a 
+long speech of one of his characters verbatim, because the mind of the 
+reader would at once lose some of the illusion of the good faith of 
+the narrator. The mind of the reader will say: "Hullo, this fellow is 
+faking this. He cannot possibly remember such a long speech word 
+for word." The Impressionist, therefore, will only record his impression 
+of a long speech. If you will try to remember what remains in your 
+mind of long speeches you heard yesterday, this afternoon or five years 
+ago, you will see what I mean. If to-day, at lunch at your club, you 
+heard an irascible member making a long speech about the fish, what 
+you remember will not be his exact words. However much his 
+proceedings will have amused you, you will not remember his exact 
+words. What you will remember is that he said that the sole was not 
+a sole, but a blank, blank, blank plaice; that the cook ought to be shot, 
+by God he ought to be shot. The plaice had been out of the water 
+two years, and it had been caught in a drain: all that there was of 
+Dieppe about this Sole Dieppoise was something that you cannot 
+remember. You will remember this gentleman's starting eyes, his 
+grunts between words, that he was fond of saying "damnable, damnable, 
+<!-- pb n='175' cit='volII,no6' -->damnable." You will also remember that the man at the same table 
+with you was talking about morals, and that your boots were too tight, 
+whilst you were trying, in your under mind, to arrange a meeting with 
+some lady.....
+
+So that, if you had to render that scene or those speeches for 
+purposes of fiction, you would not give a word for word re-invention of 
+sustained sentences from the gentleman who was dissatisfied; or if you 
+were going to invent that scene, you would not so invent those speeches 
+and set them down with all the panoply of inverted commas, notes of 
+exclamation. No, you would give an impression of the whole thing, 
+of the snorts, of the characteristic exclamation, of your friend's disquisition 
+on morals, a few phrases of which you would intersperse into 
+the monologue of the gentleman dissatisfied with his sole. And you 
+would give a sense that your feet were burning, and that the lady you 
+wanted to meet had very clear and candid eyes. You would give a 
+little description of her hair.....
+
+In that way you would attain to the sort of odd vibration that scenes 
+in real life really have; you would give your reader the impression 
+that he was witnessing something real, that he was passing through an experience..... 
+You will observe also that you will have produced 
+something that is very like a Futurist picture---not a Cubist picture, 
+but one of those canvases that show you in one corner a pair of stays, 
+in another a bit of the foyer of a music hall, in another a fragment of 
+early morning landscape, and in the middle a pair of eyes, the whole 
+bearing the title of "A Night Out." And, indeed, those Futurists are 
+only trying to render on canvas what Impressionists *tel que moi* 
+have been trying to render for many years. (You may remember 
+Emma's love scene at the cattle show in *Madame Bovary*.)
+
+Do not, I beg you, be led away by the English reviewer's cant 
+phrase to the effect that the Futurists are trying to be literary and the 
+plastic arts can never be literary. Les Jeunes of to-day are trying all 
+sorts of experiments, in all sorts of media. And they are perfectly 
+right to be trying them. 
+
+<!-- SECOND ARTICLE -->
+
+## Second Article
+
+<!-- pb n='323' cit='volII,no8,Dec.1914' -->
+<!-- No indication that this is part I. -->
+
+I have been trying to think what are the objections to Impressionism 
+as I understand it---or rather what alternative method 
+could be found. It seems to me that one is an Impressionist because 
+one tries to produce an illusion of reality---or rather the business of 
+Impressionism is to produce that illusion. The subject is one enormously 
+complicated and is full of negatives. Thus the Impressionist author is 
+sedulous to avoid letting his personality appear in the course of his 
+book. On the other hand, his whole book, his whole poem is merely 
+an expression of his personality. Let me illustrate exactly what I 
+mean. You set out to write a story, or you set out to write a poem, 
+and immediately your attempt becomes one creating an illusion, You 
+attempt to involve the reader amongst the personages of the story or 
+in the atmosphere of the poem. You do this by presentation and by 
+presentation and again by presentation. The moment you depart from 
+presentation, the moment you allow yourself, as a poet, to introduce 
+the ejaculation: 
+
+<div class='poetry'>
+
+| "O Muse Pindarian, aid me to my theme;"
+
+</div>
+
+or the moment that, as a story-teller, you permit yourself the luxury of 
+saying : 
+
+>"Now, gentle reader, is my heroine not a very sweet and oppressed lady?"---
+
+at that very moment your reader's illusion that he is present at an 
+affair in real life or that he has been transported by your poem into an 
+<!-- pb n='324' cit='volII,no8,Dec.1914' -->atmosphere entirely other than that of his arm-chair or his chimney-corner---at 
+that very moment that illusion will depart. Now the point 
+is this: 
+
+The other day I was discussing these matters with a young man 
+whose avowed intention is to sweep away Impressionism. And, after 
+I had energetically put before him the views that I have here expressed, 
+he simply remarked : "Why try to produce an illusion?" To which I 
+could only reply: "Why then write?" 
+
+I have asked myself frequently since then why one should try to 
+produce an illusion of reality in the mind of one's reader. Is it just an 
+occupation like any other---like postage-stamp collecting, let us say---or 
+is it the sole end and aim of art? I have spent the greater portion 
+of my working life in preaching that particular doctrine: is it possible, 
+then, that I have been entirely wrong ? 
+
+Of course it is possible for any man to be entirely wrong; but I 
+confess myself to being as yet unconverted. The chief argument of 
+my futurist friend was that producing an illusion causes the writer so 
+much trouble as not to be worth while. That does not seem to me to 
+be an argument worth very much because---and again I must say it 
+seems to me---the business of an artist is surely to take trouble, but 
+this is probably doing my friend's position, if not his actual argument, 
+an injustice. I am aware that there are quite definite aesthetic objections 
+to the business of producing an illusion. In order to produce an 
+illusion you must justify; in order to justify you must introduce a certain 
+amount of matter that may not appear germane to your story or to your 
+poem. Sometimes, that is to say, it would appear as if for the purpose 
+of proper bringing out of a very slight Impressionist sketch the artist 
+would need an altogether disproportionately enormous frame; a frame 
+absolutely monstrous. Let me again illustrate exactly what I mean. It 
+is not sufficient to say: "Mr Jones was a gentleman who had a strong 
+aversion to rabbit-pie." It is not sufficient, that is to say, if Mr Jones's 
+dislike for rabbit-pie is an integral part of your story. And it is quite 
+possible that a dislike for one form or other of food might form the 
+integral part of a story. Mr Jones might be a hard-worked coal-miner 
+with a well-meaning wife, whom he disliked because he was developing 
+a passion for a frivolous girl. And it might be quite possible that one 
+evening the well-meaning wife, not knowing her husband's peculiarities, 
+<!-- pb n='325' cit='volII,no8,Dec.1914' -->but desiring to give him a special and extra treat, should purchase 
+from a stall a couple of rabbits and spend many hours in preparing for 
+him a pie of great succulence, which should be a solace to him when he 
+returns, tired with his labours and rendered nervous by his growing 
+passion for the other lady. The rabbit-pie would then become a symbol---a 
+symbol of the whole tragedy of life. It would symbolize for Mr 
+Jones the whole of his wife's want of sympathy for him and the whole 
+of his distaste for her; his reception of it would symbolize for Mrs 
+Jones the whole hopelessness of her life, since she had expended upon 
+it inventiveness, sedulous care, sentiment, and a good will. From that 
+position, with the rabbit-pie always in the centre of the discussion, you 
+might work up to the murder of Mrs Jones, to Mr Jones's elopement 
+with the other lady---to any tragedy that you liked. For indeed the 
+position contains, as you will perceive, the whole tragedy of life. 
+
+And the point is this, that if your tragedy is to be absolutely convincing, 
+it is not sufficient to introduce the fact of Mr Jones's dislike 
+for rabbit-pie by the bare statement. According to your temperament 
+you must sufficiently account for that dislike. You might do it by 
+giving Mr Jones a German grandmother, since all Germans have a 
+peculiar loathing for the rabbit and regard its flesh as unclean. You 
+might then find it necessary to account for the dislike the Germans have 
+for these little creatures; you might have to state that this dislike is a 
+self-preservative race instinct, since in Germany the rabbit is apt to eat 
+certain poisonous fungi, so that one out of every ten will cause the 
+death of its consumer, or you might proceed with your justification of 
+Mr Jones's dislike for rabbit-pie along different lines. You might say 
+that it was a nervous aversion caused by having been violently thrashed 
+when a boy by his father at a time when a rabbit-pie was upon the 
+table. You might then have to go on to justify the nervous temperament 
+of Mr Jones by saying that his mother drank or that his father 
+was a man too studious for his position. You might have to pursue 
+almost endless studies in the genealogy of Mr Jones; because, of 
+course, you might want to account for the studiousness of Mr Jones's 
+father by making him the bastard son of a clergyman, and then you 
+might want to account for the libidinous habits of the clergyman in 
+question. That will be simply a matter of your artistic conscience. 
+
+You have to make Mr Jones's dislike for rabbits convincing. You 
+<!-- pb n='326' cit='volII,no8,Dec.1914' -->have to make it in the first place convincing to your reader alone; but 
+the odds are that you will try to make it convincing also to yourself, 
+since you yourself in this solitary world of ours will be the only reader 
+that you really and truly know. Now all these attempts at justification, 
+all these details of parentage and the like, may very well prove 
+uninteresting to your reader. They are, however, necessary if your 
+final effect of murder is to be a convincing impression. 
+
+But again, if the final province of art is to convince, its first province 
+is to interest. So that, to the extent that your justification is uninteresting, 
+it is an artistic defect. It may sound paradoxical, but the 
+truth is that your Impressionist can only get his strongest effects by 
+using beforehand a great deal of what one may call non-Impressionism. 
+He will make, that is to say, an enormons<!-- SIC: enormous --> impression on his reader's 
+mind by the use of three words. But very likely each one of those 
+three words will be prepared for by ten thousand other words. Now 
+are we to regard those other words as being entirely unnecessary, as 
+being, that is to say, so many artistic defects? That I take to be my 
+futurist friend's ultimate assertion, 
+
+Says he: "All these elaborate conventions of Conrad or of 
+Maupassant give the reader the impression that a story is being told---all 
+these meetings of bankers and master-mariners in places like the 
+Ship Inn at Greenwich, and all Maupassant's dinner-parties, always in 
+the politest circles, where a countess or a fashionable doctor or someone 
+relates a passionate or a pathetic or a tragic or a merely grotesque 
+incident---as you have it, for instance, in the 'Contes de la Bécasse'---all 
+this machinery for getting a story told is so much waste of time. A 
+story is a story; why not just tell it anyhow? You can never tell what 
+sort of an impression you will produce upon a reader. Then why bother 
+about Impressionism? Why not just chance your luck?" 
+
+There is a good deal to be said for this point of view. Writing up 
+to my own standards is such an intolerable labour and such a thankless 
+job, since it can't give me the one thing in the world that I desire---that 
+for my part I am determined to drop creative writing for good 
+and all. But I, like all writers of my generation, have been so handicapped 
+that there is small wonder that one should be tired out. On the 
+one hand the difficulty of getting hold of any critical guidance was, 
+when I was a boy, insuperable. There was nothing. Criticism was 
+<!-- pb n='327' cit='volII,no8,Dec.1914' -->non-existent; self-conscious art was decried; you were supposed to 
+write by inspiration; you were the young generation with the vine-leaves 
+in your hair, knocking furiously at the door. On the other hand, 
+one writes for money, for fame, to excite the passion of love, to make 
+an impression upon one's time. Well, God knows what one writes for. 
+But it is certain that one gains neither fame nor money; certainly one 
+does not excite the passion of love, and one's time continues to be 
+singularly unimpressed. 
+
+But young writers to-day have a much better chance, on the æsthetic 
+side at least. Here and there, in nooks and corners, they can find 
+someone to discuss their work, not from the point of view of goodness 
+or badness or of niceness or of nastiness, but from the simple point of 
+view of expediency. The moment you can say: "Is it expedient to print 
+*vers libre* in long or short lines, or in the form of prose, or not to print 
+it at all, but to recite it?"---the moment you can find someone to discuss 
+these expediences calmly, or the moment that you can find someone 
+with whom to discuss the relative values of justifying your character or 
+of abandoning the attempt to produce an illusion of reality---at that 
+moment you are very considerably helped; whereas an admirer of your 
+work might fall down and kiss your feet and it would not be of the 
+very least use to you. 
+
+### II. 
+
+This adieu, like Herrick's, to poesy, may seem to be a digression. 
+Indeed it is; and indeed it isn't. It is, that is to say, a digression in 
+the sense that it is a statement not immediately germane to the argument 
+that I am carrying on. But it is none the less an insertion fully 
+in accord with the canons of Impressionism as I understand it. For 
+the first business of Impressionism is to produce an impression, and the 
+only way in literature to produce an impression is to awaken interest. 
+And, in a sustained argument, you can only keep interest awakened by 
+keeping alive, by whatever means you may have at your disposal, the 
+surprise of your reader. You must state your argument; you must 
+illustrate it, and then you must stick in something that appears to have 
+nothing whatever to do with either subject or illustration, so that the 
+reader will exclaim: "What the devil is the fellow driving at?" And 
+then you must go on in the same way---arguing, illustrating and 
+<!-- pb n='328' cit='volII,no8,Dec.1914' -->startling and arguing, startling and illustrating---until at the very end 
+your contentions will appear like a ravelled skein. And then, in the 
+last few lines, you will draw towards you the master-string of that 
+seeming confusion, and the whole pattern of the carpet, the whole design 
+of the net-work will be apparent. 
+
+This method, you will observe, founds itself upon analysis of the 
+human mind. For no human being likes listening to long and sustained 
+arguments. Such listening is an effort, and no artist has the right to 
+call for any effort from his audience. A picture should come out of its 
+frame and seize the spectator. 
+
+Let us now consider the audience to which the artist should address 
+himself. Theoretically a writer should be like the Protestant angel, a 
+messenger of peace and goodwill towards all men. But, inasmuch as 
+the Wingless Victory appears monstrously hideous to a Hottentot, and 
+a beauty of Tunis detestable to the inhabitants of these fortunate 
+islands, it is obvious that each artist must adopt a frame of mind, less 
+Catholic possibly, but certainly more Papist, and address himself, like the 
+angel of the Vulgate, only *hominibus bonæ voluntatis*. He must address 
+himself to such men as be of goodwill; that is to say, he must typify 
+for himself a human soul in sympathy with his own; a silent listener 
+who will be attentive to him, and whose mind acts very much as his 
+acts. According to the measure of this artist's identity with his species, 
+so will be the measure of his temporal greatness. That is why a book, 
+to be really popular, must be either extremely good or extremely bad. 
+For Mr Hall Caine has millions of readers; but then Guy de Maupassant 
+and Flaubert have tens of millions. 
+
+I suppose the proposition might be put in another way. Since the 
+great majority of mankind are, on the surface, vulgar and trivial---the 
+stuff to fill graveyards---the great majority of mankind will be easily 
+and quickly affected by art which is vulgar and trivial. But, inasmuch 
+as this world is a very miserable purgatory for most of us sons of men---who 
+remain stuff with which graveyards are filled---inasmuch as 
+horror, despair and incessant strivings are the lot of the most trivial of 
+humanity, who endure them as a rule with commonsense and cheerfulness---so, 
+if a really great master strike the note of horror, of despair, 
+of striving, and so on, he will stir chords in the hearts of a larger 
+number of people than those who are moved by the merely vulgar and 
+<!-- pb n='329' cit='volII,no8,Dec.1914' -->the merely trivial. This is probably why Madame Bovary has sold 
+more copies than any book ever published, except, of course, books 
+purely religious. But the appeal of religious books is exactly similar. 
+
+It may be said that the appeal of Madame Bovary is largely sexual. 
+So it is, but it is only in countries like England and the United States 
+that the abominable tortures of sex---or, if you will, the abominable 
+interests of sex---are not supposed to take rank alongside of the horrors 
+of lost honour, commercial ruin, or death itself. For all these things 
+are the components of life, and each is of equal importance. 
+
+So, since Flaubert is read in Russia, in Germany, in France, in the 
+United States, amongst the non-Anglo-Saxon population, and by the 
+immense populations of South America, he may be said to have taken 
+for his audience the whole of the world that could possibly be expected 
+to listen to a man of his race. (I except, of course, the Anglo-Saxons 
+who cannot be confidently expected to listen to snything <!-- SIC: anything --> other than 
+the words produced by Mr George Edwardes, and musical comedy in 
+general.) 
+
+My futurist friend again visited me yesterday, and we discussed this 
+very question of audiences. Here again he said that I was entirely 
+wrong. He said that an artist should not address himself to *l'homme 
+moyen sensuel*, but to intellectuals, to people who live at Hampstead 
+and wear no hats. (He withdrew his contention later.) 
+
+I maintain on my own side that one should address oneself to the 
+cabmen round the corner, but this also is perhaps an exaggeration. 
+My friend's contention on behalf of the intellectuals was not so much 
+due to his respect for their intellects. He said that they knew the 
+A B C of an art, and that it is better to address yourself to an 
+audience that knows the A B C of an art than to an audience entirely 
+untrammelled by such knowledge. In this I think he was wrong, for 
+the intellectuals are persons of very conventional mind, and they 
+acquire as a rule simultaneously with the A B C of any art the 
+knowledge of so many conventions that it is almost impossible to make 
+any impression upon their minds. Hampstead and the hatless generally 
+offer an impervious front to futurisms, simply because they have imbibed 
+from Whistler and the Impressionists the convention that painting 
+should not be literary. Now every futurist picture tells a story; so 
+that rules out futurism. Similarly with the cubists. Hampstead has 
+<!-- pb n='330' cit='volII,no8,Dec.1914' -->imbibed, from God knows where, the dogma that all art should be 
+based on life, or should at least draw its inspiration and its strength 
+from the representation of nature, So there goes cubism, since cubism 
+is non-representational, has nothing to do with life, and has a quite 
+proper contempt of nature. 
+
+When I produced my argument that one should address oneself to 
+the cabmen at the corner, my futurist friend at once flung to me the 
+jeer about Tolstoi and the peasant. Now the one sensible thing in the 
+long drivel of nonsense with which Tolstoi misled this dull world was 
+the remark that art should be addressed to the peasant. My futurist 
+friend said that that was sensible for an artist living in Russia or 
+Roumania, but it was an absurd remark to be let fall by a critic living 
+on Campden Hill. His view was that you cannot address yourself to 
+the peasant unless that peasant have evoked folk-song or folk-lores. I 
+don't know why that was his view, but that was his view. 
+
+It seems to me to be nonsensical, even if the inner meaning of his 
+dictum was that art should be addressed to a community of practising 
+artists. Art, in fact, should be addressed to those who are not preoccupied. 
+It is senseless to address a Sirventes to a man who is going 
+mad with love, and an Imagiste poem will produce little effect upon 
+another man who is going through the bankruptcy court. 
+
+It is probable that Tolstoi thought that in Russia the non-preoccupied 
+mind was to be found solely amongst the peasant class, and that is 
+why he said that works of art should be addressed to the peasant. I 
+don't know how it may be in Russia, but certainly in Occidental 
+Europe the non-preoccupied mind---which is the same thing as the 
+peasant intelligence---is to be found scattered throughout every grade 
+of society. When I used just now the instances of a man made for 
+love, or distracted by the prospect of personal ruin, I was purposely 
+misleading. For a man mad as a hatter for love of a worthless creature, 
+or a man maddened by the tortures of bankruptcy, by dishonour or by 
+failure, may yet have, by the sheer necessity of his nature, a mind more 
+receptive than most other minds. The mere craving for relief from his 
+personal thoughts may make him take quite unusual interest in a work 
+of art. So that is not preoccupation in my intended sense, but for a 
+moment the false statement crystallised quite clearly what I was 
+aiming at. 
+
+<!-- pb n='331' cit='volII,no8,Dec.1914' -->The really impassible mind is not the mind quickened by passion, 
+but the mind rendered slothful by preoccupation purely trivial. The 
+"English gentleman" is, for instance, an absolutely hopeless being from 
+this point of view. His mind is so taken up by considerations of what 
+is good form, of what is good feeling, of what is even good fellowship; 
+he is so concerned to pass unnoticed in the crowd; he is so set upon 
+having his room like everyone else's room, that he will find it impossible 
+to listen to any plea for art which is exceptional, vivid, or startling. 
+The cabman, on the other hand, does not mind being thought a 
+vulgar sort of bloke; in consequence he will form a more possible 
+sort of audience. On the other hand, amongst the purely idler classes 
+it is perfectly possible to find individuals who are so firmly and titularly 
+gentle folk that they don't have to care a damn what they do. These 
+again are possible audiences for the artist. The point is really, I take 
+it, that the preoccupation that is fatal to art is the moral or the social 
+preoccupation. Actual preoccupations matter very little. Your cabman 
+may drive his taxi through exceedingly difficult streets; he may have 
+half-a-dozen close shaves in a quarter of an hour. But when those 
+things are over they are over, and he has not the necessity of a cabman. 
+His point of view as to what is art, good form, or, let us say, the proper 
+relation of the sexes, is unaffected. He may be a hungry man, a thirsty 
+man, or even a tired man, but he will not necessarily have his finger 
+upon his moral pulse, and he will not hold as æsthetic dogma the idea 
+that no painting must tell a story, or the moral dogma that passion 
+only becomes respectable when you have killed it. 
+
+It is these accursed dicta that render an audience hopeless to the 
+artist, that render art a useless pursuit and the artist himself a despised 
+individual. 
+
+So that those are the best individuals for an artist's audience who 
+have least listened to accepted ideas---who are acquainted with deaths at 
+street corners, with the marital infidelities of crowded courts, with the 
+goodness of heart of the criminal, with the meanness of the undetected 
+or the sinless, who know the queer odd jumble of negatives that forms 
+our miserable and hopeless life. If I had to choose as reader I would 
+rather have one who had never read anything before but the Newgate 
+Calendar, or the records of crime, starvation and divorce in the Sunday 
+paper---I would rather have him for a reader than the man who had 
+<!-- pb n='332' cit='volII,no8,Dec.1914' -->discovered the song that the sirens sang, or had by heart the whole of 
+the *Times* Literary Supplement, from its inception to the present day. 
+Such a peasant intelligence will know that this is such a queer world 
+that anything may be possible. And that is the type of intelligence 
+that we need. 
+
+Of course, it is more difficult to find these intelligences in the town 
+than in the rural districts. A man thatching all day long has time 
+for many queer thoughts; so has a man who from sunrise to sunset is 
+trimming a hedge into shape with a bagging hook. I have, I suppose, 
+myself thought more queer thoughts when digging potatoes than at 
+any other time during my existence. It is, for instance, very queer if you 
+are digging potatoes in the late evening, when it has grown cool after 
+a very hot day, to thrust your hand into the earth after a potato and 
+to find that the earth is quite warm---is about flesh-heat. Of course, 
+the clods would be warm because the sun would have been shining on 
+them all day, and the air gives up its heat much quicker than the earth. 
+But it is none the less a queer sensation. 
+
+Now, if the person experiencing that sensation have what I call a 
+peasant intelligence, he will just say that it is a queer thing and will 
+store it away in his mind along with his other experiences. It will go 
+along with the remembrance of hard frost, of fantastic icycles,<!-- SIC: icicles --> the death 
+of rabbits pursued by stoats, the singularly quick ripening of corn in a 
+certain year, the fact that such and such a man was overlooked by a wise 
+woman and so died because, his wife, being tired of him, had paid the wise 
+woman five sixpences which she had laid upon the table in the form of 
+a crown; or along with the other fact that a certain man murdered his 
+wife by the use of a packet of sheep dip which he had stolen from a 
+field where the farmer was employed at lamb washing. All these 
+remembrances he will have in his mind, not classified under any 
+headings of social reformers, or generalized so as to fulfil any fancied 
+moral law. 
+
+But the really dangerous person for the artist will be the gentleman 
+who, chancing to put his hand into the ground and to find it about as 
+warm as the breast of a woman, if you could thrust your hand between 
+her chest and her stays, will not accept the experience as an experience, 
+but will start talking about the breast of mother-nature. This last man 
+is the man whom the artist should avoid, since he will regard phenomena 
+<!-- pb n='333' cit='volII,no8,Dec.1914' -->not as phenomena, but as happenings, with which he may back up 
+preconceived dogmas---as, in fact, so many sticks with which to beat 
+a dog. 
+
+No, what the artist needs is the man with the quite virgin mind---the 
+man who will not insist that grass must always be painted green, 
+because all the poets, from Chaucer till the present day, had insisted on 
+talking about the green grass, or the green leaves, or the green straw. 
+
+Such a man, if he comes to your picture and sees you have painted 
+a haycock bright purple will say: 
+
+"Well, I have never myself observed a haycock to be purple, but I 
+can understand that if the sky is very blue and the sun is setting very 
+red, the shady side of the haycock might well appear to be purple." 
+That is the kind of peasant intelligence that the artist needs for his 
+audience. 
+
+And the whole of Impressionism comes to this: having realized that 
+the audience to which you will address yourself must have this particular 
+peasant intelligence, or, if you prefer it, this particular and virgin 
+openness of mind, you will then figure to yourself an individual, a 
+silent listener, who shall be to yourself the *homo bonæ voluntatis*---man 
+of goodwill. To him, then, you will address your picture, 
+your poem, your prose story, or your argument. You will seek 
+to capture his interest; you will seek to hold his interest. You 
+will do this by methods of surprise, of fatigue, by passages of 
+sweetness in your language, by passages suggesting the sudden and 
+brutal shock of suicide. You will give him passages of dulness, so 
+that your bright effects may seem more bright; you will alternate, you 
+will dwell for a long time upon an intimate point; you will seek to 
+exasperate so that you may the better enchant. You will, in short, 
+employ all the devices of the prostitute. If you are too proud for this 
+you may be the better gentleman or the better lady, but you will be the 
+worse artist. For the artist must always be humble and humble and 
+again humble, since before the greatness of his task he himself is 
+nothing. He must again be outrageous, since the greatness of his task 
+calls for enormous excesses by means of which he may recoup his 
+energies. That is why the artist is, quite rightly, regarded with 
+suspicion by people who desire to live in tranquil and ordered society.
+
+But one point is very important. The artist can never write to 
+<!-- pb n='334' cit='volII,no8,Dec.1914' -->satisfy himself---to get, as the saying is, something off the chest. He 
+must not write propaganda which it is his desire to write; he must not 
+write rolling periods, the production of which gives him a soothing 
+feeling in his digestive organs or wherever it is. He must write always 
+so as to satisfy that other fellow---that other fellow who has too clear 
+an intelligence to let his attention be captured or his mind deceived 
+by special pleadings in favour of any given dogma. You must not 
+write so as to improve him, since he is a much better fellow than 
+yourself, and you must not write so as to influence him, since he is a 
+granite rock, a peasant intelligence, the gnarled bole of a sempiternal 
+oak, against which you will dash yourself in vain, It is in short no 
+pleasant kind of job to be a conscious artist. You won't have any 
+vine-leaves in your poor old hair; you won't just dash your quill into 
+an inexhaustible ink-well and pour out fine frenzies. No, you will be 
+just the skilled workman doing his job with drill or chisel or mallet. 
+And you will get precious little out of it. Only, just at times, when 
+you come to look again at some work of yours that you have quite 
+forgotten, you will say, "Why, that is rather well done." That is all.

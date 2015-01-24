@@ -1,0 +1,90 @@
+\documentclass[12pt,english]{book}
+%\usepackage[a5paper,top=1in,bottom=1in,left=1in,right=1in,textwidth=45em]{geometry}
+\usepackage[a5paper]{geometry}
+\usepackage[T1]{fontenc}
+
+\usepackage{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+
+% To allow multiple titles within one document
+\usepackage{titling}
+
+% To customize the appearance of the table of contents
+\usepackage{tocloft}
+
+% For running heads
+\usepackage{fancyhdr}
+
+% To center sections
+\usepackage{sectsty}
+\sectionfont{\centering}
+\subsectionfont{\centering}
+
+% csquotes package ensures pretty, curly quotation marks 
+% with the straight marks that are encoded in the TEI source.
+\usepackage[autostyle]{csquotes}
+\MakeOuterQuote{"}
+
+\usepackage{verse}
+
+% Font stuff
+\setromanfont[Mapping=tex-text,Numbers=OldStyle]{Linux Libertine O} 
+\setsansfont[Mapping=tex-text,Numbers=OldStyle]{Linux Biolinum O} 
+
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+
+% Remove Section Numbers
+\setcounter{secnumdepth}{0}
+
+% Set Table of Contents Depth
+\setcounter{tocdepth}{1}
+
+% Customize appearance of Table of Contents
+\renewcommand{\cfttoctitlefont}{\hfill\Large\itshape}
+\renewcommand{\cftchapfont}{}
+% An include command
+\newcommand{\myinclude}[1]{\clearpage\input{#1}\clearpage}
+
+\title{Modernist Sources}
+\author{}
+\date{}
+
+%\pagestyle{plain}
+
+% Header
+\pagestyle{fancy}
+\fancyhf{} 
+%\renewcommand{\leftmark}[1]{\chaptername{}}
+\fancyhead[LE,RO]{\itshape\chaptername}
+\fancyfoot[LE,RO]{\bfseries\thepage}
+
+\renewcommand{\headrulewidth}{0.05mm}
+
+% Special Header for first page of chapters
+\fancypagestyle{plain}{%
+    \fancyhf{}
+    \fancyhead[L]{}
+    \fancyhead[C]{}
+    \fancyhead[LE,Ro]{\bfseries\thepage}
+}
+
+\begin{document}
+
+% Necessary to prevent text running into right margin from 
+% overfull hboxes.
+\sloppy
+
+\maketitle
+
+\newpage
+
+\tableofcontents
+\newpage
+
+%\myinclude{ford_on-impressionism}
+%\myinclude{loy_aphorisms}
+%\myinclude{pound_retrospect}
+%\myinclude{woolf_mr-bennet}
+
+%\end{document}

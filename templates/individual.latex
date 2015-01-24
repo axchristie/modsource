@@ -1,0 +1,62 @@
+$if(title)$
+\title{$title$}
+$endif$
+$if(subtitle)$
+\subtitle{$subtitle$}
+$endif$
+\author{$for(author)$ $author.given$ $author.family$ $sep$ \and $endfor$}
+\date{$citation.year$}
+
+% This line adds an entry for each work into the table of contents.
+%\addcontentsline{toc}{chapter}{$title$, $for(author)$ $author.given$ $author.family$ $sep$ \and $endfor$ ($citation.year$)}
+\addcontentsline{toc}{chapter}{$title$ ($citation.year$) \newline $author.given$ $author.family$ }
+
+\renewcommand{\chaptername}{$author.family$, $title$}
+
+\thispagestyle{plain}
+
+%\chapter[$title$ ($citation.year$) \newline $author.given$ $author.family$]{$title$}
+
+% BEGIN KLUDGY TITLE BIT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% We're not using \maketitle; instead this is Chris's own 
+% kludgey way of outputting the title. Note the 
+% uncomfortable amount of finagling with \linespread, \noindent
+% and \vspace to make it look okay.
+\begin{raggedright}
+{\Large \linespread{1.0} \noindent \textbf{$title$} \par} 
+
+{\large $author.given$ $author.family$ \par} 
+
+\vspace{0.5em}
+\end{raggedright}
+
+\begin{raggedleft}
+{\large \linespread{1.2} ($citation.year$) \par}
+\end{raggedleft}
+\vspace{1em}
+% END KLUDGY TITLE BIT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\maketitle
+
+%\section{$if(title)$ $title$ $endif$ $if(subtitle)$: $subtitle$ $endif$ $for(author)$ $author.given$ $author.family$ \\ $sep$ \and $endfor$ }
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+
+$if(epigraph)$
+\epigraph{$epigraph$}{$epigraph.source$}
+$endif$
+
+$citation.work$
+
+$for(include-before)$
+$include-before$
+
+$endfor$
+
+$body$
+
+%\newpage

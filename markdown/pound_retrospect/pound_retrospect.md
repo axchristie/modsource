@@ -1,0 +1,637 @@
+---
+title: A Retrospect
+author: 
+  family: Pound
+  given: Ezra
+
+citation:
+	container-title: Pavannes and Divisions
+	publisher: Alfred A. Knopf
+	pubPlace: New York
+	year: 1918
+	pages: 95 - 111
+
+source:
+	- https://archive.org/details/pavannesdivision00poun
+	- https://archive.org/details/pavannesanddivi00poungoog
+	- https://archive.org/details/cu31924021664408
+
+tags:
+  - Pound
+  - imagism
+  - poetry
+  
+editor: Chris Forster
+---
+
+There has been so much scribbling about a new fashion 
+in poetry, that I may perhaps be pardoned this brief 
+recapitulation and retrospect.
+
+In the spring or early summer of 1912, "H.D.," Richard 
+Aldington and myself decided that we were agreed 
+upon the three principles following:
+
+1. Direct treatment of the "thing" whether subjective or objective.
+2. To use absolutely no word that does not contribute to the presentation.
+3. As regarding rhythm: to compose in the sequence of the musical phrase, not in sequence of a metronome.
+
+Upon many points of taste and of predilection we 
+differed, but agreeing upon these three positions we 
+thought we had as much right to a group name, at least 
+as much right, as a number of French "schools" proclaimed 
+by Mr. Flint in the August number of Harold 
+Monro's magazine for 1911.
+
+This school has since been "joined" or "followed" 
+by numerous people who, whatever their merits, do not 
+show any signs of agreeing with the second specification. 
+Indeed vers libre has become as prolix and as verbose 
+as any of the flaccid varieties that preceded it. It has 
+brought faults of its own. The actual language and 
+phrasing is often as bad as that of our elders without 
+even the excuse that the words are shovelled in to fill a 
+metric pattern or to complete the noise of a rhyme-sound. 
+Whether or no the phrases followed by the followers 
+<!-- pb 96-->are musical must be left to the reader's decision. 
+At times I can find a marked metre in "vers libres," as 
+stale and hackneyed as any pseudo-Swinburnian, at times 
+the writers seem to follow no musical structure whatever. 
+But it is, on the whole, good that the field should 
+be ploughed. Perhaps a few good poems have come 
+from the new method, and if so it is justified.
+
+## . . . 
+
+Criticism is not a circumscription or a set of prohibitions. 
+It provides fixed points of departure. It may 
+startle a dull reader into alertness. That little of it 
+which is good is mostly in stray phrases; or if it be an 
+older artist helping a younger it is in great measure 
+but rules of thumb, cautions gained by experience.
+
+I set together a few phrases on practical working about the time 
+the first remarks on imagisme were published. 
+The first use of the word "Imagiste" was in my note 
+to T. E. Hulme's five poems, printed at the end of my 
+"Ripostes" in the autumn of 1912. I reprint my cautions 
+from *Poetry* for March, 1913.
+
+### A FEW DON'TS
+
+An "Image" is that which presents an intellectual 
+and emotional complex in an instant of time. I use the 
+term "complex" rather technical sense employed 
+by the newer psychologists, such as Hart, though we 
+might not agree absolutely in our application.
+
+It is the presentation of such a "complex" instantaneously 
+which gives that sense of sudden liberation; that 
+sense of freedom from time limits and space limits; that 
+sense of sudden growth, which we experience in the 
+presence of the greatest works of art.
+
+<!-- pb97-->It is better to present one Image in a lifetime than 
+to produce voluminous works.
+
+All this, however, some may consider open to debate. 
+The immediate necessity is to tabulate A LIST OF DON'TS 
+for those beginning to write verses. I can not put all 
+of them into Mosaic negative.
+
+To begin with, consider the three propositions (demanding 
+direct treatment, economy of words, and the 
+sequence of the musical phrase), not as dogma---never 
+consider anything as dogma---but as the result of long 
+contemplation, which, even if it is some one else's contemplation, 
+may be worth consideration.
+
+Pay no attention to the criticism of men who have 
+never themselves written a notable work. Consider the 
+discrepancies between the actual writing of the Greek 
+poets and dramatists, and the theories of the Graeco-Roman 
+grammarians, concocted to explain their metres.
+
+### LANGUAGE
+
+Use no superfluous word, no adjective, which does not 
+reveal something.
+
+Don't use such an expression as "dim lands of *peace*." 
+It dulls the image. It mixes an abstraction with the 
+concrete. It comes from the writer's not realizing that 
+the natural object is always the *adequate* symbol.
+
+Go in fear of abstractions. Do not retell in mediocre 
+verse what has already been done in good prose. Don't 
+think any intelligent person is going to be deceived when 
+you try to shirk all the difficulties of the unspeakably 
+difficult art of good prose by chopping your composition 
+into line lengths.
+
+What the expert is tired of today the public will be 
+tired of tomorrow.
+
+Don't imagine that the art of poetry is any simpler 
+<!-- pb98 -->than the art of music, or that you can please the expert 
+before you have spent at least as much effort on the art 
+of verse as an average piano teacher spends on the art 
+of music.
+
+Be influenced by as many great artists as you can, 
+but have the decency either to acknowledge the debt 
+outright, or to try to conceal it.
+
+Don't allow "influence" to mean merely that you 
+mop up the particular decorative vocabulary of some 
+one or two poets whom you happen to admire. A Turkish 
+war correspondent was recently caught red-handed 
+babbling in his dispatches of "dove-grey" hills, or else 
+it was "pearl-pale," I can not remember.
+
+Use either no ornament or good ornament.
+
+### RHYTHM AND RHYME
+
+Let the candidate fill his mind with the finest cadences 
+he can discover, preferably in a foreign language^[This is for rhythm, his vocabulary must of course be found in his native tongue.] so 
+that the meaning of the words may be less likely to divert 
+his attention from the movement; e.g. Saxon charms, 
+Hebridean Folk Songs, the verse of Dante, and the lyrics 
+of Shakespeare---if he can dissociate the vocabulary from 
+the cadence. Let him dissect the lyrics of Goethe coldly 
+into their component sound values, syllables long and 
+short, stressed and unstressed, into vowels and 
+consonants.
+
+It is not necessary that a poem should rely on its 
+music, but if it does rely on its music that music must be 
+such as will delight the expert.
+
+Let the neophyte know assonance and alliteration, 
+rhyme immediate and delayed, simple and polyphonic, 
+<!-- pb99 -->as a musician would expect to know harmony and counterpoint 
+and all the minutiae of his craft. No time is 
+too great to give to these matters or to any one of them, 
+even if the artist seldom have need of them.
+
+Don't imagine that a thing will "go" in verse just 
+because it's too dull to go in prose.
+
+Don't be "viewy"---leave that to the writers of pretty 
+little philosophic essays. Don't be descriptive; remember 
+that the painter can describe a landscape much better 
+than you can, and that he has to know a deal more about it.
+
+When Shakespeare talks of the "Dawn in russet mantle 
+clad" he presents something which the painter does 
+not present. There is in this line of his nothing that 
+one can call description; he presents.
+
+Consider the way of the scientists rather than the way 
+of an advertising agent for a new soap.
+
+The scientist does not expect to be acclaimed as a 
+great scientist until he has *discovered* something. He 
+begins by learning what has been discovered already. 
+He goes from that point onward. He does not bank 
+on being a charming fellow personally. He does not 
+expect his friends to applaud the results of his freshman 
+class work. Freshmen in poetry are unfortunately not 
+confined to a definite and recognizable class room. They 
+are "all over the shop." Is it any wonder "the public 
+is indifferent to poetry?"
+
+Don't chop your stuff into separate *iambs*. Don't 
+make each line stop dead at the end, and then begin 
+every next line with a heave. Let the beginning of the 
+next line catch the rise of the rhythm wave, unless you 
+want a definite longish pause.
+
+In short, behave as a musician, a good musician, when 
+<!-- pb100 -->dealing with that phase of your art which has exact 
+parallels in music. The same laws govern, and you are 
+bound by no others.
+
+Naturally, your rhythmic structure should not destroy 
+the shape of your words, or their natural sound, or their 
+meaning. It is improbable that, at the start, you will 
+be able to get a rhythm-structure strong enough to affect 
+them very much, though you may fall a victim to all 
+sorts of false stopping due to line ends, and cæsurae.
+
+The musician can rely on pitch and the volume of 
+the orchestra. You can not. The term harmony is 
+misapplied in poetry; it refers to simultaneous sounds of 
+different pitch. There is, however, in the best verse a 
+sort of residue of sound which remains in the ear of the 
+hearer and acts more or less as an organ-base.
+
+A rhyme must have in it some slight element of surprise 
+if it is to give pleasure; it need not be bizarre or 
+curious, but it must be well used if used at all.
+
+Vide further Vildrac and Duhamel's notes on rhyme 
+in "Technique Poetique."
+
+That part of your poetry which strikes upon the imaginative 
+*eye* of the reader will lose nothing by translation 
+into a foreign tongue; that which appeals to the 
+ear can reach only those who take it in the original.
+
+Consider the definiteness of Dante's presentation, as 
+compared with Milton's rhetoric. Read as much of 
+Wordsworth as does not seem too unutterably dull.^[Vide infra.] 
+
+If you want the gist of the matter go to Sappho, 
+Catullus, Villon, Heine when he is in the vein, Gautier 
+when he is not too frigid; or, if you have not the tongues, 
+seek out the leisurely Chaucer. Good prose will do you 
+no harm, and there is good discipline to be had by trying 
+to write it.
+
+<!-- pb101 -->Translation is likewise good training, if you find that 
+your original matter "wobbles" when you try to rewrite 
+it. The meaning of the poem to be translated can not 
+"wobble."
+
+If you are using a symmetrical form, don't put in 
+what you want to say and then fill up the remaining 
+vacuums with slush.
+
+Don't mess up the perception of one sense by trying 
+to define it in terms of another. This is usually only the 
+result of being too lazy to find the exact word. To this 
+clause there are possibly exceptions.
+
+The first three simple prescriptions will throw out 
+nine-tenths of all the bad poetry now accepted as standard 
+and classic; and will prevent you from many a 
+crime of production.
+
+"... *Mais d'abord il faut être un poète*," as MM. 
+Duhamel and Vildrac have said at the end of their little 
+book, "Notes sur la Technique Poetique."
+
+## . . .
+
+Since March, 1913, Ford Madox Hueffer has pointed 
+out that Wordsworth was so intent on the ordinary or 
+plain word that he never thought of hunting for *le mot 
+juste*.
+
+John Butler Yeats has handled or man-handled Wordsworth 
+and the Victorians, and his criticism, contained 
+in letters to his son, is now printed and available.
+
+I do not like writing *about* art, my first, at least I 
+think it was my first essay on the subject, was a protest 
+against it.
+
+<!-- FOOTNOTE AT BOTTOM OF PAGE; WTF? -->
+
+<!-- pb102 -->
+
+### PROLEGOMENA^[*Poetry and Drama* (then the *Poetry Review*, edited by Harold Monro), Feb., 1912.]
+
+Time was when the poet lay in a green field with 
+his head against a tree and played his diversion on a 
+ha'penny whistle, and Cæsar's predecessors conquered 
+the earth, and the predecessors of golden Crassus embezzled, 
+and fashions had their say, and let him alone. 
+And presumably he was fairly content in this circumstance, 
+for I have small doubt that the occasional passerby, 
+being attracted by curiosity to know why any one 
+should lie under a tree and blow diversion on a ha'penny 
+whistle, came and conversed with him, and that among 
+these passers-by there was on occasion a person of charm 
+or a young lady who had not read "Man and Superman"; 
+and looking back upon this naïve state of affairs 
+we call it the age of gold.
+
+Metastasio, and he should know if any one, assures 
+us that this age endures---even though the modern poet 
+is expected to holloa his verses down a speaking tube 
+to the editors of cheap magazines---S.S. McClure, or 
+some one of that sort---even though hordes of authors 
+meet in dreariness and drink healths to the "Copyright 
+Bill"; even though these things be, the age of gold pertains. 
+Imperceivably, if you like, but pertains. You 
+meet unkempt Amyclas in a Soho restaurant and chant 
+together of dead and forgotten things---it is a manner 
+of speech among poets to chant of dead, half-forgotten 
+things, there seems no special harm in it; it has always 
+been done---and it's rather better to be a clerk in the 
+Post Office than to look after a lot of stinking, verminous 
+sheep---and at another hour of the day one substitutes 
+the drawing-room for the restaurant and tea is probably 
+<!-- pb 103 -->more palatable than mead and mare's milk, and
+little cakes than honey. And in this fashion one survives 
+the resignation of Mr. Balfour, and the iniquities 
+of the American customs-house, *e quel bufera infernal*, 
+the periodical press. And then in the middle of it, there 
+being apparently no other person at once capable and 
+available one is stopped and asked to explain oneself.
+
+I begin on the chord thus querulous, for I would much 
+rather lie on what is left of Catullus' parlour floor and
+speculate the azure beneath it and the hills off to Salo 
+and Riva with their forgotten gods moving unhindered 
+amongst them, than discuss any processes and theories 
+of art whatsoever. I would rather play tennis. I shall 
+not argue.
+
+### CREDO
+
+*Rhythm*.---I believe in an "absolute rhythm," a 
+rhythm, that is, in poetry which corresponds exactly to 
+the emotion or shade of emotion to be expressed. A 
+man's rhythm must be interpretative, it will be, therefore, 
+in the end, his own, uncounterfeiting, uncounterfeitable.
+
+*Symbols*.---I believe that the proper and perfect symbol 
+is the natural object, that if a man use "symbols" 
+he must so use them that their symbolic function does 
+not obtrude; so that *a* sense, and the poetic quality of the 
+passage, is not lost to those who do not understand the 
+symbol as such, to whom, for instance, a hawk is a hawk.
+
+*Technique*.---I believe in technique as the test of 
+a man's sincerity; in law when it is ascertainable; in the 
+trampling down of every convention that impedes or 
+obscures the determination of the law, or the precise 
+rendering of the impulse.
+
+*Form*.---I think there is a "fluid" as well as a "solid" 
+<!-- pb 104 -->content, that some poems may have form as a tree has 
+form, some as water poured into a vase. That most symmetrical 
+forms have certain uses. That a vast number 
+of subjects cannot be precisely, and therefore not 
+properly rendered in symmetrical forms.
+
+"Thinking that alone worthy wherein the whole art 
+is employed,"^[Dante, De Volgari Eloquio.] I think the artist should master all 
+known forms and systems of metric, and I have with 
+some persistence set about doing this, searching particularly 
+into those periods wherein the systems came to 
+birth or attained their maturity. It has been complained, 
+with some justice, that I dump my note-books 
+on the public. I think that only after a long struggle 
+will poetry attain such a degree of development, of, if 
+you will, modernity, that it will vitally concern people 
+who are accustomed, in prose, to Henry James and Anatole 
+France, in music to Debussy. I am constantly contending 
+that it took two centuries of Provençe and one 
+of Tuscany to develop the media of Dante's 
+masterwork, that it took the latinists of the Renaissance, and the Pleiade, and his own age of painted speech to prepare 
+Shakespeare his tools. It is tremendously important 
+that great poetry be written, it makes no jot of 
+difference who writes it. The experimental demonstrations 
+of one man may save the time of many---hence my 
+furore over Arnaut Daniel---if a man's experiments try 
+out one new rime, or dispense conclusively with one iota 
+of currently accepted nonsense, he is merely playing fair 
+with his colleagues when he chalks up his result.
+
+No man ever writes very much poetry that "matters." 
+In bulk, that is, no one produces much that is final, and 
+when a man is not doing this highest thing, this saying 
+<!-- pb105 --> the thing once for all and perfectly; when he is not 
+matching  Ποικιλόθρον', ὰθάνατ' Ἀφρόδιτα, or "Hist---said 
+Kate the Queen," he had much better be making 
+the sorts of experiment which may be of use to him 
+in his later work, or to his successors.
+
+"The lyf so short, the craft so long to lerne." It is 
+a foolish thing for a man to begin his work on a too 
+narrow foundation, it is a disgraceful thing for a man's 
+work not to show steady growth and increasing fineness 
+from first to last.
+
+As for "adaptations"; one finds that all the old masters 
+of painting recommend to their pupils that they 
+begin by copying masterwork, and proceed to their own 
+composition.
+
+As for "Every man his own poet." The more every 
+man knows about poetry the better. I believe in every 
+one writing poetry who wants to; most do. I believe in 
+every man knowing enough of music to play "God bless 
+our home" on the harmonicum, but I do not believe in 
+every man giving concerts and printing his sin.
+
+The mastery of any art is the work of a lifetime. I 
+should not discriminate between the "amateur" and the "professional," or rather I should discriminate quite 
+often in favour of the amateur, but I should discriminate 
+between the amateur and the expert. It is certain 
+that the present chaos will endure until the Art of poetry 
+has been preached down the amateur gullet, until there 
+is such a general understanding of the fact that poetry 
+is an art and not a pastime; such a knowledge of technique; 
+of technique of surface and technique of content, 
+that the amateurs will cease to try to drown out the 
+masters.
+
+If a certain thing was said once for all in Atlantis 
+<!-- pb 106 -->or Arcadia, in 450 Before Christ or in 1290 after, it is 
+not for us moderns to go saying it over, or to go obscuring 
+the memory of the dead by saying the same thing 
+with less skill and less conviction.
+
+My pawing over the ancients and semi-ancients has 
+been one struggle to find out what has been done, once 
+for all, better than it can ever be done again, and to 
+find out what remains for us to do, and plenty does remain, 
+for if we still feel the same emotions as those 
+which launched the thousand ships, it is quite certain 
+that we come on these feelings differently, through different 
+nuances, by different intellectual gradations. 
+Each age has its own abounding gifts, yet only some 
+ages transmute them into matter of duration. No good 
+poetry is ever written in a manner twenty years old, for 
+to write in such a manner shows conclusively that the 
+writer thinks from books, convention and *cliché*, and not 
+from life, yet a man feeling the divorce of life and his 
+art may naturally try to resurrect a forgotten mode if 
+he find in that mode some leaven, or if he think he sees 
+in it some element lacking in contemporary art which 
+might unite that art again to its sustenance, life.
+
+In the art of Daniel and Cavalcanti, I have seen that 
+precision which I miss in the Victorians---that explicit 
+rendering, be it of external nature, or of emotion. Their testimony is of the eyewitness, their symptoms are first 
+hand.
+
+As for the nineteenth century, with all respect to its 
+achievements, I think we shall look back upon it as a 
+rather blurry, messy sort of a period, a rather sentimentalistic, mannerish sort of a period. I say this without any self-righteousness, with no self-satisfaction.
+
+As for there being a "movement" or my being of it, 
+<!-- pb 107 -->the conception of poetry as a "pure art" in the sense in 
+which I use the term, revived with Swinburne. From 
+the puritanical revolt to Swinburne, poetry had been 
+merely the vehicle---yes, definitely, Arthur Symons' 
+scruples and feelings about the word not withholding--the 
+ox-cart and post-chaise for transmitting thoughts poetic or otherwise. And perhaps the "great Victorians," 
+though it is doubtful, and assuredly the "nineties" 
+continued the development of the art, confining their 
+improvements, however, chiefly to sound and to refinements 
+of manner.
+
+Mr. Yeats has once and for all stripped English poetry 
+of its perdamnable rhetoric. He has boiled away all 
+that is not poetic---and a good deal that is. He has 
+become a classic in his own lifetime and *nel mezzo del 
+cammin*. He has made our poetic idiom a thing pliable, 
+a speech without inversions.
+
+Robert Bridges, Maurice Hewlett and Frederic Manning 
+are^[(Dec., 1911.)] in their different ways seriously concerned 
+with overhauling the metric, in testing the language and 
+its adaptability to certain modes. Ford Hueffer is making 
+some sort of experiments in modernity. The Provost 
+of Oriel continues his translation of the *Divina Commedia*.
+
+As to Twentieth century poetry, and the poetry which 
+I expect to see written during the next decade or so, it 
+will, I think, move against poppy-cock, it will be harder 
+and saner, it will be what Mr. Hewlett calls "nearer the 
+bone." It will be as much like granite as it can be, its 
+force will lie in its truth, its interpretative power (of 
+course, poetic force does always rest there); I mean it 
+will not try to seem forcible by rhetorical din, and luxurious 
+<!-- pb 108 -->riot. We will have fewer painted adjectives 
+impeding the shock and stroke of it. At least for myself, 
+I want it so, austere, direct, free from emotional slither.
+
+## . . .
+
+What is there now, in 1917, to be added?
+
+### RE VERS LIBRE
+
+I think the desire for vers libre is due to the sense of 
+quantity reasserting itself after years of starvation. 
+But I doubt if we can take over, for English, the rules 
+of quantity laid down for greek and latin, mostly by 
+latin grammarians.
+
+I think one should write vers libre only when one 
+"must," that is to say, only when the "thing" builds 
+up a rhythm more beautiful than that of set metres, or 
+more real, more a part of the emotion of the "thing," 
+more germane, intimate, interpretative than the 
+measure of regular accentual verse; a rhythm which 
+discontents one with set iambic or set anapaestic.
+
+Eliot has said the thing very well when he said, "No 
+*vers* is *libre* for the man who wants to do a good job."
+
+As a matter of detail, there is vers libre with accent 
+heavily marked as a drum-beat (as par example my 
+"Dance Figure"), and on the other hand I think I have 
+gone as far as can profitably be gone in the other 
+direction (and perhaps too far). I mean I do not think 
+one can use to any advantage rhythms much more tenuous 
+and imperceptible than some I have used. I think 
+progress lies rather in an attempt to approximate 
+classical quantitative metres (NOT to copy them) than in 
+a carelessness regarding such things.^[Let me date this statement 20. Aug., 1917.]
+
+. . .
+
+<!-- pb 109 -->
+I agree with John Yeats on the relation of beauty to 
+certitude. I prefer satire, which is due to emotion, to 
+any sham of emotion.
+
+I have had to write, or at least I have written a good 
+deal about art, sculpture, painting and poetry. I have 
+seen what seemed to me the best of contemporary work 
+reviled and obstructed. Can any one write prose of 
+permanent or durable interest when he is merely saying 
+for one year what nearly every one will say at the end 
+of three or four years? I have been battistrada for a 
+sculptor, a painter, a novelist, several poets. I wrote 
+also of certain French writers in *The New Age* in nineteen 
+twelve or eleven.
+
+I would much rather that people would look at 
+Brzeska's sculpture and Lewis' drawings, and that they would 
+read Joyce, Jules Romains, Eliot, than that they should 
+read what I have said of these men, or that I should be 
+asked to republish argumentative essays and reviews.
+
+All that the critic can do for the reader or audience 
+or spectator is to focus his gaze or audition. Rightly 
+or wrongly I think my blasts and essays have done their 
+work, and that more people are now likely to go to the 
+sources than are likely to read this book.
+
+Jammes' "Existences" in "La Triomphe de la Vie" is 
+available. So are his early poems. I think we need a 
+convenient anthology rather than descriptive criticism. 
+Carl Sandburg wrote me from Chicago, "It's hell when 
+poets can't afford to buy each other's books." Half 
+the people who care, only borrow. In America so few 
+people know each other that the difficulty lies more than 
+half in distribution. Perhaps one should make an 
+anthology: Romains' "Un Être en Marche" and 
+"Prières," Vildrac's "Visite." Retrospectively the 
+fine wrought work of La Forgue, the flashes of Rimbaud, 
+the hard-bit lines of Tristan Corbière, Tailhade's 
+sketches in "Poèmes Aristophanesques," the "Litanies" 
+of DeGourmont.
+
+## . . .
+
+It is difficult at all times to write of the fine arts, it 
+is almost impossible unless one can accompany one's 
+prose with many reproductions. Still I would seize this 
+chance or any chance to reaffirm my belief in Wyndham 
+Lewis' genius, both in his drawings and his writings. 
+And I would name an out of the way prose book, the 
+"Scenes and Portraits" of Frederic Manning, as well 
+as James Joyce's short stories and novel, "Dubliners" 
+and the now well known "Portrait of the Artist," as 
+well as Lewis' "Tarr," if, that is, I may treat my 
+strange reader as if he were a new friend come into 
+the room, intent on ransacking my bookshelf.
+
+### ONLY EMOTION ENDURES
+
+"Only emotion endures." Surely it is better for me 
+to name over the few beautiful poems that still ring in 
+my head than for me to search my flat for back numbers 
+of periodicals and rearrange all that I have said 
+about friendly and hostile writers.
+
+The first twelve lines of Padraic Colum's "Drover"; 
+his "O Woman shapely as a swan, on your account I 
+shall not die"; Joyce's "I hear an army"; the lines of 
+Yeats that ring in my head and in the heads of all young 
+men of my time who care for poetry: Braseal and the 
+Fisherman, "The fire that stirs about her when she 
+stirs"; the later lines of "The Scholars," the faces of 
+the Magi; William Carlos Williams' "Postlude," Aldington's 
+version of "Atthis," and "H. D.'s" waves like 
+pine tops, and her verse in "Des Imagistes" the first 
+<!-- pb 111 -->anthology; Hueffer's "How red your lips are" in his 
+translation from Von der Vogelweide, his "Three Ten," 
+the general effect of his "On Heaven"; his sense of the 
+prose values or prose qualities in poetry; his ability 
+to write poems that will sing to music, as distinct from 
+poems that half-chant and are spoiled by a musician's 
+additions; beyond these a poem by Alice Corbin, "One 
+City Only," and another ending "But sliding water 
+over a stone." These things have worn smooth in my 
+head and I am not through with them, nor with Aldington's 
+"In Via Sestina" nor his other poems in "Des 
+Imagistes" though people have told me their flaws. It 
+may be that their content is too much embedded in me 
+for me to look back at the words.
+
+I am almost a different person when I come to take up 
+the argument for Eliot's poems.
+
+## . . .
